@@ -35,7 +35,6 @@ Contribuições são bem-vindas! Se você encontrar problemas, tiver sugestões 
 
 Para mais informações, entre em contato:
 
-- Email: gabrielohca@gmail.com
 - LinkedIn: [Gabriel's LinkedIn](https://www.linkedin.com/in/gabrielhca/)
 
 ## Observações
